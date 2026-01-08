@@ -1,0 +1,9 @@
+- coupon_id: "CDM25-0000001"
+  distributor_id: "RELAIS-01"
+  timestamp: "2025-01-08T10:00:00"
+  device_id: "DEVICE-123"
+
+- coupon_id: "CDM25-0000002"
+  distributor_id: "RELAIS-01"
+  timestamp: "2025-01-08T10:00:20"
+  device_id: "DEVICE-123"
